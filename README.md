@@ -22,7 +22,9 @@
 ![Sales Dashboard](Screenshot%202026-08-30%20192531.png)
 ![Data Analysis Overview](Screenshot%202026-08-30%20235836.png)
 ![Data Analytics Report](Screenshot%202026-08-30%20235903.png)
-  
+![Screen 4](Screenshot%202026-08-30%20235903.png)
+![Screen 5](Screenshot%202026-09-04%20175500.png)
+![Screen 6](Screenshot%202026-09-04%20214143.png)
 ### 📬 تواصل معي
 - [Email](mailto:me276729@gmail.com)
 -
