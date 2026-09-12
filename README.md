@@ -12,9 +12,6 @@
 ## 🛠️ المهارات والتقنيات (Skills & Tools)
 
 - **تحليل البيانات (Data Analytics):** SQL,Excel (Pivot Tables, Advanced Formulas), Power BI, Python.
-- **تطوير الويب (Web Development):** HTML5, CSS3, Responsive Design, PHP, JavaScript.
-
----
 
 ## 🖼️ المعرض والمشاريع (Projects Showcase)
 
@@ -27,4 +24,5 @@
 
 ### 📬 تواصل معي
 - [Email](mailto:me276729@gmail.com)
--
+- [LinkedIn](https://www.linkedin.com/in/mohamed-emad-980202328?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
