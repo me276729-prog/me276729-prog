@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 أهلاً بك، أنا محمد عماد!
 
-<!--
-**me276729-prog/me276729-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+طالب بكلية معهد الدلتا العالى لنظم المعلومات الاداريه والمحاسبيه | مهتم بتطوير الويب وتحليل البيانات.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ المهارات والتقنيات (Skills & Tools)
+- **لغات البرمجة:** Python, PHP, JavaScript, HTML5, CSS3
+- **تحليل البيانات:python ,SQl, Excel (Advanced), Power BI, Pandas
+- **التصميم:*Canva
+
+---
+
+### 📂 أبرز المشاريع (Featured Projects)
+- 📊 **[مشروع تحليل البيانات]:** لوحة تحكم تفاعلية (Dashboard).
+- 🌐 **[مشروع موقع ويب]:** تطبيق/موقع مكتوب بلغة PHP و JavaScript.
+
+---
+
+### 📬 تواصل معي (Connect with Me)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-emad-980202328?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [Email](me276729@gmail.com)
+-
