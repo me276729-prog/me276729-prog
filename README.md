@@ -1,23 +1,28 @@
-# 👋 أهلاً بك، أنا محمد عماد!
+# 🖐️ أهلاً بك، أنا محمد عماد
 
-طالب بكلية معهد الدلتا العالى لنظم المعلومات الاداريه والمحاسبيه | مهتم بتطوير الويب وتحليل البيانات.
-
----
-
-### 🛠️ المهارات والتقنيات (Skills & Tools)
-- **لغات البرمجة:** Python, PHP, JavaScript, HTML5, CSS3
-- **تحليل البيانات:python ,SQl, Excel (Advanced), Power BI, Pandas
-- **التصميم:*Canva
+### طالب بكلية الدلتا العالى لنظم المعلومات الاداريه والمحاسبيه | مهتم بمجال تحليل البيانات وتطوير الويب
 
 ---
 
-### 📂 أبرز المشاريع (Featured Projects)
-- 📊 **[مشروع تحليل البيانات]:** لوحة تحكم تفاعلية (Dashboard).
-- 🌐 **[مشروع موقع ويب]:** تطبيق/موقع مكتوب بلغة PHP و JavaScript.
+## 👨‍💻 نبذة عني
+طالب بكلية الدلتا العالى لنظم المعلومات الاداريه والمحاسبيه. أطمح لتطوير مهاراتي في تحليل البيانات وتطوير تطبيقات الويب، وأعمل على بناء مشاريع عملية تستعرض تحليلات البيانات ولوحات التحكم التفاعلية.
 
 ---
 
-### 📬 تواصل معي (Connect with Me)
-- [LinkedIn](https://www.linkedin.com/in/mohamed-emad-980202328?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [Email](me276729@gmail.com)
+## 🛠️ المهارات والتقنيات (Skills & Tools)
+
+- **تحليل البيانات (Data Analytics):** SQL,Excel (Pivot Tables, Advanced Formulas), Power BI, Python.
+- **تطوير الويب (Web Development):** HTML5, CSS3, Responsive Design, PHP, JavaScript.
+
+---
+
+## 🖼️ المعرض والمشاريع (Projects Showcase)
+
+### 📊 مشاريع تحليل البيانات ولوحات التحكم (Dashboards)
+![Sales Dashboard](Screenshot%202026-08-30%20192531.png)
+![Data Analysis Overview](Screenshot%202026-08-30%20235836.png)
+![Data Analytics Report](Screenshot%202026-08-30%20235903.png)
+  
+### 📬 تواصل معي
+- [Email](mailto:me276729@gmail.com)
 -
