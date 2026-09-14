@@ -13,8 +13,6 @@
 
 - **تحليل البيانات (Data Analytics):** SQL,Excel (Pivot Tables, Advanced Formulas), Power BI, Python.
 
-## 🖼️ المعرض والمشاريع (Projects Showcase)
-
 ### 📊 مشاريع تحليل البيانات ولوحات التحكم (Dashboards)
 ![Sales Dashboard](Screenshot%202026-08-30%20192531.png)
 ![Screen 6](Screenshot%202026-09-04%20214143.png)
